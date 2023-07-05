@@ -11,4 +11,7 @@ reverse();
 
 printf("\n factorial of a number\n");
 factorial();
+
+printf("\n biggest of 3 numbers\n");
+biggest3();
 }
